@@ -1,4 +1,4 @@
-# Networking Basics
+## Networking Basics
 
-- What is IP?
-    Internet Protocol(IP) 
+- **What is IP?**  
+    Internet Protocol (IP)
