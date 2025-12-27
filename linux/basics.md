@@ -1,6 +1,6 @@
  ## Linux Basic commands  
   
-  - ####Note : Linux commands are case sensitive.
+   #### Note : Linux commands are case sensitive.
   
   - `pwd` - Print working directory (Shows user's current location)  
   - `whoami` - Shows logged in user  
