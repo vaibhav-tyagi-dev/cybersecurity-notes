@@ -22,11 +22,12 @@
   - `touch -d` - Setting a specific date of file  
   - `file` - Find format of the file  
   - `nano` - Edit file (Ctrl + o - Enter to save, Ctrl + x to exit)  
-  - `cat` - Read file  
+  - `cat` - View short/single page text file  
   - `cat file1 file2` - Display combined output
   - `cat >` - Write text into a file directly (Write - Ctrl + D to save)new file can be created also including text.  
   - `cat -n` - Numbers all output lines  
-  - `cat -b` - Numbers non-empty output lines  
+  - `cat -b` - Numbers non-empty output lines
+  - `less` - View large text files[(less - /search_term - enter ) To search a word]  
   - `cp` - Make copy of file  
   - `mv` - Move/Rename file  
   - `rm` - Delete file  
