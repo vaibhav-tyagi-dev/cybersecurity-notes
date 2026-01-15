@@ -27,11 +27,15 @@
   - `cat >` - Write text into a file directly (Write - Ctrl + D to save)new file can be created also including text.  
   - `cat -n` - Numbers all output lines  
   - `cat -b` - Numbers non-empty output lines
-  - `less` - View large text files[(less - /search_term - enter ) To search a word]  
-  - `cp` - Make copy of file  
-  - `mv` - Move/Rename file  
-  - `rm` - Delete file  
-  - `rm -r` - Delete directory  
+  - `less` - View large text files[(less - /search_term - enter ) To search a word]
+  - `history` - View command history  
+  - `cp` - Make copy of file
+  - `cp -r` - Make copy of dir  
+  - `mv` - Move/Rename file/dir  
+  - `rm` - Remove file  
+  - `rm -r` - Remove directory  
+  - `rmdir` - Remove empty directory
+  - `find` - Find a file  
   - `chmod` - Change permission  
   - `man ls` - Manual/Documentation  
   - `--help` - Help  
